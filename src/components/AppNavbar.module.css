@@ -1,0 +1,32 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    background-color: #000;
+    color: #fff;
+    border-radius: 10px;
+}
+
+.navbar_brand{
+    margin: 0;
+    padding: 10px;
+}
+
+.nav{
+    margin: 18px 0 0 0;
+    padding: 0;
+    list-style: none;
+}
+
+.nav_item{
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.nav_link{
+    color: #fff;
+    text-decoration: none;
+}
+
+.nav a:visited{
+    color: #fff;
+}
